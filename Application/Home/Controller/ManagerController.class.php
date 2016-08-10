@@ -13,7 +13,6 @@ class ManagerController extends Controller{
     
     public function index(){
         header("content-type:text/html;charset=utf-8");
-        
         $Manager = M('Manager'); // 实例化Manager对象
         $count      = $Manager->count();// 查询满足要求的总记录数
         $Page       = new \Org\Bar\Page($count,10);// 实例化分页类 传入总记录数和每页显示的记录数(5)
@@ -44,7 +43,7 @@ class ManagerController extends Controller{
                 }else{
                     $bigimg = $msg['savepath'].$msg['savename'];
                     $_POST['big_img_url'] = $bigimg;
-                    //生成缩略图
+                    //通过Image类生成缩略图
                     $image = new \Think\Image();
                     $srcimg = $upload->rootPath.$bigimg;
                     $image->open($srcimg);

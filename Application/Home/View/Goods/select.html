@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>展示数据</title>
+<link rel="stylesheet" type="text/css" href="__CSS__/create.css"/>
+<script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+<div id="top_div">
+  <span>提示文字：</span><span class="top">展示数据</span>
+</div>
+        <volist name="data" id="vo">       
+            {$vo.id}=>{$vo.name}=>{$vo.sex}=>{$vo.age}+++<a href="__MODULE__/Goods/upd/id/{$vo.id}">{$lang.SAVE}</a>+++<a href="__MODULE__/Goods/del/id/{$vo.id}">{$lang[DELETE]}</a><br/>
+        </volist>
+
+
+</body>
+</html>

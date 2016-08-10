@@ -1,0 +1,30 @@
+[ 2016-08-03T10:22:56+08:00 ] ::1 /myphp/User/fe
+ERR: 非法操作:fe
+
+[ 2016-08-03T10:23:01+08:00 ] ::1 /myphp/User/create
+ERR: Unable to load template file 'User/create.html'
+
+[ 2016-08-03T10:23:23+08:00 ] ::1 /myphp/User/jianli
+ERR: Unable to load template file 'User/jianli.html'
+
+[ 2016-08-03T10:23:47+08:00 ] ::1 /myphp/User/tuijian.html
+ERR: 非法操作:tuijian
+
+[ 2016-08-03T10:24:19+08:00 ] ::1 /myphp/User/jianli
+ERR: Unable to load template file 'User/jianli.html'
+
+[ 2016-08-03T22:52:31+08:00 ] ::1 /myphp/Home/Goods/del
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-03T22:54:56+08:00 ] ::1 /myphp/Home/Goods/del
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-03T22:56:42+08:00 ] ::1 /myphp/Home/Goods/del
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-03T22:56:42+08:00 ] ::1 /myphp/Home/Goods/del
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-03T22:56:43+08:00 ] ::1 /myphp/Home/Goods/del
+ERR: 参数错误或者未定义:id
+

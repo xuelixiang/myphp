@@ -1,0 +1,27 @@
+#content{width: 1071px; height: auto; margin: 20px auto;}
+p{font-size: 34px; line-height: 100px; color: #01A1DD; text-align: center;}
+#content ul.shang{width: 1071px; height: 26px; border: 1px solid #01A1DD;}
+#content ul.shang li{width: 60px; height: 26px; border-left: 1px solid #01A1DD; float: left; font-size: 14px; line-height: 26px; color: #01A1DD; text-align: center;}
+#content ul.shang li.chang{width: 150px;}
+#content ul.shang li.mid{width: 100px;}
+#content ul.shang li.first{border-left: none;}
+
+#content ul.xia{width: 1071px; height: 26px; border: 1px solid #999999; border-top: none;}
+#content ul.xia li{width: 60px; height: 26px; border-left: 1px solid #999999; float: left; font-size: 12px; line-height: 26px; color: #666666; text-align: center;}
+#content ul.xia li.chang{width: 150px;}
+#content ul.xia li.mid{width: 100px;}
+#content ul.xia li.first{border-left: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

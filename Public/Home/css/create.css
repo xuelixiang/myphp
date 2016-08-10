@@ -1,0 +1,22 @@
+/*css初始化*/
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+a:focus {outline:0;}
+.clear{clear:both;}
+.clearfix:after{clear:both; content:"."; display:block; height:0; visibility:hidden;}
+input:focus{outline:none}
+
+/*主页部分*/
+body{ background-color:#ffffff; min-width:220px; width:100%;}
+
+#top_div{width:100%; height:36px; line-height:36px; background-color:#ccc;}
+
+
+
+
+
+
+

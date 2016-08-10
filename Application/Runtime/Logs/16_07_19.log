@@ -1,0 +1,16 @@
+[ 2016-07-19T16:10:14+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+SQL: DESCRIBE think_user [ RunTime:0.063178s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="d" AND email="d" ) LIMIT 1   [ RunTime:0.001417s ]
+
+[ 2016-07-19T16:11:00+08:00 ] ::1 /myphp/home/User/jinali
+ERR: 非法操作:jinali
+
+[ 2016-07-19T16:11:44+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+SQL: DESCRIBE think_user [ RunTime:0.005515s ]
+

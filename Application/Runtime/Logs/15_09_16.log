@@ -1,0 +1,303 @@
+[ 2015-09-16T22:28:42+08:00 ] ::1 /myphp/User/ceate
+ERR: 非法操作:ceate
+
+[ 2015-09-16T22:28:50+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: DESCRIBE think_user [ RunTime:0.070712s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:29:53+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: DESCRIBE think_user [ RunTime:0.022257s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:31:43+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+SQL: DESCRIBE think_user [ RunTime:0.021525s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:32:21+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001486s ]
+SQL: DESCRIBE think_user [ RunTime:0.021448s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:32:21+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: DESCRIBE think_user [ RunTime:0.017453s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:32:21+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+SQL: DESCRIBE think_user [ RunTime:0.016966s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:33:08+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001323s ]
+SQL: DESCRIBE think_user [ RunTime:0.022369s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:15+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: DESCRIBE think_user [ RunTime:0.030235s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:16+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: DESCRIBE think_user [ RunTime:0.021594s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:16+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+SQL: DESCRIBE think_user [ RunTime:0.017376s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: DESCRIBE think_user [ RunTime:0.021484s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+SQL: DESCRIBE think_user [ RunTime:0.017583s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001629s ]
+SQL: DESCRIBE think_user [ RunTime:0.017535s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: DESCRIBE think_user [ RunTime:0.017216s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+SQL: DESCRIBE think_user [ RunTime:0.017303s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:18+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+SQL: DESCRIBE think_user [ RunTime:0.021923s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:18+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: DESCRIBE think_user [ RunTime:0.018188s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:38+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001769s ]
+SQL: DESCRIBE think_user [ RunTime:0.059647s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:41+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+SQL: DESCRIBE think_user [ RunTime:0.022983s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:41+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+SQL: DESCRIBE think_user [ RunTime:0.017409s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:37:46+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+SQL: DESCRIBE think_user [ RunTime:0.021493s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:38:46+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: DESCRIBE think_user [ RunTime:0.021872s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:38:51+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+SQL: DESCRIBE think_user [ RunTime:0.021316s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:42:11+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001486s ]
+SQL: DESCRIBE think_user [ RunTime:0.051333s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:42:12+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: DESCRIBE think_user [ RunTime:0.028188s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:42:12+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+SQL: DESCRIBE think_user [ RunTime:0.017821s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:42:16+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+SQL: DESCRIBE think_user [ RunTime:0.022857s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:46:28+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+SQL: DESCRIBE think_user [ RunTime:0.021675s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017638s ]
+
+[ 2015-09-16T22:46:29+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+SQL: DESCRIBE think_user [ RunTime:0.082224s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.022446s ]
+
+[ 2015-09-16T22:46:30+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+SQL: DESCRIBE think_user [ RunTime:0.022101s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017004s ]
+
+[ 2015-09-16T22:46:30+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+SQL: DESCRIBE think_user [ RunTime:0.017092s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017046s ]
+
+[ 2015-09-16T22:46:46+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001586s ]
+SQL: DESCRIBE think_user [ RunTime:0.021918s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017292s ]
+
+[ 2015-09-16T22:46:47+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+SQL: DESCRIBE think_user [ RunTime:0.023893s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.018676s ]
+
+[ 2015-09-16T22:55:52+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+SQL: DESCRIBE think_user [ RunTime:0.021909s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:58:55+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+SQL: DESCRIBE think_user [ RunTime:0.021827s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T22:59:03+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+SQL: DESCRIBE think_user [ RunTime:0.022129s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-16T23:01:27+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002022s ]
+SQL: DESCRIBE think_user [ RunTime:0.053539s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017447s ]
+SQL: INSERT INTO `think_user` (`user`,`email`,`date`) VALUES ('顶顶顶','顶顶顶','2015-09-16 23:01:27') [ RunTime:0.068340s ]
+
+[ 2015-09-16T23:02:17+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+SQL: DESCRIBE think_user [ RunTime:0.021302s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017028s ]
+
+[ 2015-09-16T23:02:48+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+SQL: DESCRIBE think_user [ RunTime:0.022068s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.021939s ]
+
+[ 2015-09-16T23:04:22+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001995s ]
+SQL: DESCRIBE think_user [ RunTime:0.021894s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017314s ]
+
+[ 2015-09-16T23:04:36+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: DESCRIBE think_user [ RunTime:0.021773s ]
+NOTIC: [8] Undefined variable: data D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+SQL: DESCRIBE think_user [ RunTime:0.017772s ]
+SQL: INSERT INTO `think_user` (`user`,`email`,`date`) VALUES ('dd','dddd','2015-09-16 23:04:36') [ RunTime:0.097248s ]
+

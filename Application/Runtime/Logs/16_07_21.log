@@ -1,0 +1,12 @@
+[ 2016-07-21T11:20:48+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+SQL: DESCRIBE think_user [ RunTime:0.211419s ]
+
+[ 2016-07-21T11:20:48+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+SQL: DESCRIBE think_user [ RunTime:0.006729s ]
+

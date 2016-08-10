@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>我的资料</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="__STATIC__/reset.css">
+  <link rel="stylesheet" href="__CSS__/mine.css">
+  <script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+  <p>我的资料</p>
+  <div id="content">
+    <div class="hang">
+      <laber>账号：</laber>
+      <div class="username">{$data.username}</div>
+    </div>
+    <div class="hang">
+      <laber>密码：</laber>
+      <div class="password">{$data.password}</div>
+    </div>
+    <div class="hang">
+      <laber>姓名：</laber>
+      <div class="name">{$data.name}</div>
+    </div>
+    <div class="hang">
+      <laber>性别：</laber>
+      <div class="sex">{$data.sex}</div>
+    </div>
+    <div class="hang">
+      <laber>年龄：</laber>
+      <div class="age">{$data.age}</div>
+    </div>
+    <div class="hang">
+      <laber>手机号：</laber>
+      <div class="tell">{$data.tell}</div>
+    </div>
+    <div class="hang">
+      <laber>QQ号：</laber>
+      <div class="qq">{$data.qq}</div>
+    </div>
+    <a href="__CONTROLLER__/upd/id/{$data.id}" class="submit">修改我的资料</a>
+    <a href="__CONTROLLER__/logout" class="submit">退出登录</a>
+
+  </div>
+</body>
+</html>

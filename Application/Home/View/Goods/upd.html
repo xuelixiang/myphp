@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>更新数据</title>
+<link rel="stylesheet" type="text/css" href="__CSS__/create.css"/>
+<script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+<div id="top_div">
+  <span>提示文字：</span><span class="top">更新数据</span>
+</div>
+<form id="form_all" method="post" action="__SELF__" >
+	姓名:<input id="name" type="text" name="name" value="{$data.name}" /><br />
+	性别:<input id="sex" type="text" name="sex" value="{$data[sex]}" /><br />
+	年龄:<input id="age" type="text" name="age" value="{$data[age]}" /><br />
+	<input id="btn" type="submit" value="更新数据" /><br />
+</form>
+
+</body>
+</html>

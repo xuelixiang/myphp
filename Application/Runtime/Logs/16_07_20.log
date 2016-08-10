@@ -1,0 +1,12 @@
+[ 2016-07-20T10:18:55+08:00 ] ::1 /myphp/jianli
+ERR: 无法加载控制器:Jianli
+
+[ 2016-07-20T10:19:08+08:00 ] ::1 /myphp/home/jianli
+ERR: 无法加载控制器:Jianli
+
+[ 2016-07-20T10:19:16+08:00 ] ::1 /myphp/Home/jianli
+ERR: 无法加载控制器:Jianli
+
+[ 2016-07-20T10:34:39+08:00 ] ::1 /myphp/User/tuijian.html
+ERR: 非法操作:tuijian
+

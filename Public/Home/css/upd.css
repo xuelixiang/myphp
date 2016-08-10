@@ -1,0 +1,20 @@
+#content{width: 300px; height: auto; margin: 20px auto;}
+p{font-size: 34px; line-height: 74px; color: #01A1DD; text-align: center;}
+#content .hang{width: 300px; height: 26px; margin: 10px auto;}
+#content .hang laber{display: block; width: 85px; height: 26px; float: left; font-size: 14px; color: #333333; line-height: 26px; text-align: right; padding-right: 15px;}
+#content .hang input{display: block; border: 1px solid #333333; width: 188px; height: 24px; float: left; font-size: 14px; color: #666666; line-height: 24px; text-align: left; padding: 0 5px;}
+#content input.btn{display: block; border: none; width: 140px; height: 36px; font-size: 14px; color: #ffffff; line-height: 34px; text-align: center; margin: 40px auto; background-color: #01A1DD; cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

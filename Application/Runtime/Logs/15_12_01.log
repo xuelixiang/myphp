@@ -1,0 +1,97 @@
+[ 2015-12-01T09:53:23+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+SQL: DESCRIBE think_user [ RunTime:0.004299s ]
+
+[ 2015-12-01T09:53:26+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002005s ]
+SQL: DESCRIBE think_user [ RunTime:0.004287s ]
+
+[ 2015-12-01T09:53:27+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+SQL: DESCRIBE think_user [ RunTime:0.004014s ]
+
+[ 2015-12-01T09:53:29+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+SQL: DESCRIBE think_user [ RunTime:0.004120s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="问啊" ) LIMIT 1   [ RunTime:0.000531s ]
+SQL: INSERT INTO `think_user` (`user`,`email`,`date_zhuce`) VALUES ('问啊','速度','2015-12-01 09:53:29') [ RunTime:0.099691s ]
+
+[ 2015-12-01T09:53:31+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: DESCRIBE think_user [ RunTime:0.004082s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="问啊" ) LIMIT 1   [ RunTime:0.000499s ]
+
+[ 2015-12-01T09:59:53+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001637s ]
+SQL: DESCRIBE think_user [ RunTime:0.004028s ]
+
+[ 2015-12-01T09:59:54+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+SQL: DESCRIBE think_user [ RunTime:0.004042s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="的" AND email="的是" ) LIMIT 1   [ RunTime:0.018949s ]
+
+[ 2015-12-01T09:59:55+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001702s ]
+SQL: DESCRIBE think_user [ RunTime:0.005049s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="的" AND email="的是" ) LIMIT 1   [ RunTime:0.000561s ]
+
+[ 2015-12-01T09:59:55+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+SQL: DESCRIBE think_user [ RunTime:0.003894s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="的" AND email="的是" ) LIMIT 1   [ RunTime:0.000586s ]
+
+[ 2015-12-01T09:59:55+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002026s ]
+SQL: DESCRIBE think_user [ RunTime:0.004338s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="的" AND email="的是" ) LIMIT 1   [ RunTime:0.000469s ]
+
+[ 2015-12-01T10:00:04+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001640s ]
+SQL: DESCRIBE think_user [ RunTime:0.004413s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="q" AND email="1" ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2015-12-01T10:00:05+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: DESCRIBE think_user [ RunTime:0.004021s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="q" AND email="1" ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2015-12-01T10:00:08+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001824s ]
+SQL: DESCRIBE think_user [ RunTime:0.003876s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="q" AND email="q" ) LIMIT 1   [ RunTime:0.000457s ]
+SQL: UPDATE `think_user` SET `user`='q',`email`='q',`date_denglu`='2015-12-01 10:00:08' WHERE ( user="q" ) [ RunTime:0.109446s ]
+
+[ 2015-12-01T10:00:09+08:00 ] ::1 /myphp/User/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+SQL: DESCRIBE think_user [ RunTime:0.003837s ]
+SQL: SELECT * FROM `think_user` WHERE ( user="q" AND email="q" ) LIMIT 1   [ RunTime:0.000480s ]
+SQL: UPDATE `think_user` SET `user`='q',`email`='q',`date_denglu`='2015-12-01 10:00:09' WHERE ( user="q" ) [ RunTime:0.071303s ]
+

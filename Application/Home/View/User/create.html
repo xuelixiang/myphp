@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>注册网站</title>
+<link rel="stylesheet" type="text/css" href="__CSS__/create.css"/>
+<script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+<div id="top_div">
+  <span>提示文字：</span><span class="top"></span>
+</div>
+<form id="form_all" method="post" action="{:U('User/create')}" >
+	user:<input id="user" type="text" name="user" /><br />
+	email:<input id="email" type="text" name="email" /><br />
+	<input id="btn" type="button" value="提交" /><br />
+</form>
+
+<script>
+$(function(){
+	$('#btn').click(function(){
+		$user = $('#user').val();
+		$email = $('#email').val();
+		var $action = $('#form_all').attr('action');
+		$.post($action,{user:$user,email:$email},function(data){
+			$('.top').text(data);
+			//console.log(data);
+		})
+	});
+	
+})
+
+</script>
+
+
+</body>
+</html>

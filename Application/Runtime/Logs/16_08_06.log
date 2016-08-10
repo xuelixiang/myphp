@@ -1,0 +1,2896 @@
+[ 2016-08-06T09:27:40+08:00 ] ::1 /myphp/manager/register
+ERR: 无法加载控制器:Manager
+
+[ 2016-08-06T09:28:00+08:00 ] ::1 /myphp/manager/css/reset.css
+ERR: 非法操作:css
+
+[ 2016-08-06T09:28:00+08:00 ] ::1 /myphp/manager/css/register.css
+ERR: 非法操作:css
+
+[ 2016-08-06T09:28:02+08:00 ] ::1 /myphp/manager/css/reset.css
+ERR: 非法操作:css
+
+[ 2016-08-06T09:28:02+08:00 ] ::1 /myphp/manager/css/register.css
+ERR: 非法操作:css
+
+[ 2016-08-06T10:46:05+08:00 ] ::1 /myphp/Manager/register.html
+ERR: Think\Model:check_register方法不存在！
+
+[ 2016-08-06T11:00:02+08:00 ] ::1 /myphp/Manager/register.html
+ERR: Think\Model:check_register方法不存在！
+
+[ 2016-08-06T11:01:51+08:00 ] ::1 /myphp/Manager/register.html
+ERR: Think\Model:check_register方法不存在！
+
+[ 2016-08-06T11:15:44+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003725s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007547s ]
+
+[ 2016-08-06T11:16:24+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004377s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006682s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000550s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('xuexue','123','学学','男','24','134253647647','24254256326','2016-08-06 11:16:24') [ RunTime:0.000436s ]
+
+[ 2016-08-06T11:16:34+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003486s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005537s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000485s ]
+
+[ 2016-08-06T11:16:37+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003574s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007371s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000530s ]
+
+[ 2016-08-06T11:16:37+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003782s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006667s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000482s ]
+
+[ 2016-08-06T11:16:37+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003542s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006066s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2016-08-06T11:16:37+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003987s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006518s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T11:16:50+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003864s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006466s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000508s ]
+
+[ 2016-08-06T11:16:50+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004059s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006045s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000584s ]
+
+[ 2016-08-06T11:16:50+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003684s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006543s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue" ) LIMIT 1   [ RunTime:0.000695s ]
+
+[ 2016-08-06T11:16:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003643s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007077s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexuelixiang" ) LIMIT 1   [ RunTime:0.000509s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('xuexuelixiang','123','学学','男','24','134253647647','24254256326','2016-08-06 11:16:54') [ RunTime:0.000368s ]
+
+[ 2016-08-06T11:16:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004692s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007214s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexuelixiang" ) LIMIT 1   [ RunTime:0.000546s ]
+
+[ 2016-08-06T11:27:20+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003891s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006656s ]
+
+[ 2016-08-06T11:27:21+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003902s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006461s ]
+
+[ 2016-08-06T11:27:21+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003925s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006644s ]
+
+[ 2016-08-06T11:27:25+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004299s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006270s ]
+
+[ 2016-08-06T11:27:40+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003860s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006814s ]
+
+[ 2016-08-06T11:27:43+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004493s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006557s ]
+
+[ 2016-08-06T11:28:07+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003487s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006704s ]
+
+[ 2016-08-06T11:28:30+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003457s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006985s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexuelixiang" ) LIMIT 1   [ RunTime:0.000518s ]
+
+[ 2016-08-06T11:28:42+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003409s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006461s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu" ) LIMIT 1   [ RunTime:0.000465s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('xu','1','学学','男','24','134253647647','524376211','2016-08-06 11:28:42') [ RunTime:0.000380s ]
+
+[ 2016-08-06T11:33:10+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003869s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007114s ]
+
+[ 2016-08-06T11:33:19+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004125s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007863s ]
+
+[ 2016-08-06T11:33:20+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003449s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006232s ]
+
+[ 2016-08-06T11:33:20+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003547s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006641s ]
+
+[ 2016-08-06T11:33:26+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003571s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007045s ]
+
+[ 2016-08-06T11:33:29+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004117s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007175s ]
+
+[ 2016-08-06T11:33:42+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004180s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008338s ]
+
+[ 2016-08-06T11:33:44+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003443s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006834s ]
+
+[ 2016-08-06T11:33:46+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004180s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006945s ]
+
+[ 2016-08-06T11:33:46+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003512s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007371s ]
+
+[ 2016-08-06T11:33:46+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004131s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006334s ]
+
+[ 2016-08-06T11:33:46+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001407s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004722s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006613s ]
+
+[ 2016-08-06T11:33:49+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003714s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006488s ]
+
+[ 2016-08-06T11:33:49+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003494s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007220s ]
+
+[ 2016-08-06T11:33:52+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003528s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006647s ]
+
+[ 2016-08-06T11:33:53+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004116s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006957s ]
+
+[ 2016-08-06T11:33:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004303s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006610s ]
+
+[ 2016-08-06T11:33:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003816s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006070s ]
+
+[ 2016-08-06T11:33:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001387s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004306s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005607s ]
+
+[ 2016-08-06T11:33:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003803s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007778s ]
+
+[ 2016-08-06T11:33:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003786s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006548s ]
+
+[ 2016-08-06T11:34:18+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003492s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006751s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000522s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('123@11.cn','123','薛立想','男','25','13234567890','524376211','2016-08-06 11:34:18') [ RunTime:0.000429s ]
+
+[ 2016-08-06T11:34:52+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003502s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007426s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000525s ]
+
+[ 2016-08-06T11:34:53+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004010s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006247s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000519s ]
+
+[ 2016-08-06T11:34:53+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003464s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007038s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000505s ]
+
+[ 2016-08-06T11:34:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003643s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005812s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000485s ]
+
+[ 2016-08-06T11:34:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004121s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006849s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000614s ]
+
+[ 2016-08-06T11:34:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003465s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007109s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000507s ]
+
+[ 2016-08-06T11:34:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003535s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006067s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000692s ]
+
+[ 2016-08-06T11:34:54+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003790s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006182s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000497s ]
+
+[ 2016-08-06T11:34:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004072s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006815s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2016-08-06T11:34:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003896s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006434s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000524s ]
+
+[ 2016-08-06T11:34:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003765s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006112s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.cn" ) LIMIT 1   [ RunTime:0.000487s ]
+
+[ 2016-08-06T11:35:01+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004760s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007373s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.com" ) LIMIT 1   [ RunTime:0.000505s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('123@11.com','123','薛立想','男','25','13234567890','524376211','2016-08-06 11:35:01') [ RunTime:0.000465s ]
+
+[ 2016-08-06T11:37:40+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003870s ]
+
+[ 2016-08-06T11:37:47+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003372s ]
+
+[ 2016-08-06T11:38:08+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003810s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006870s ]
+
+[ 2016-08-06T11:38:18+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001305s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004288s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006298s ]
+
+[ 2016-08-06T11:38:23+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004102s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006420s ]
+
+[ 2016-08-06T11:38:29+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003975s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007002s ]
+
+[ 2016-08-06T11:38:45+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003847s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006812s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.com" ) LIMIT 1   [ RunTime:0.000495s ]
+
+[ 2016-08-06T11:38:57+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003976s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005740s ]
+
+[ 2016-08-06T11:39:02+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004335s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006615s ]
+
+[ 2016-08-06T11:39:04+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004709s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008110s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.com" ) LIMIT 1   [ RunTime:0.000529s ]
+
+[ 2016-08-06T11:39:09+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003896s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007277s ]
+
+[ 2016-08-06T11:39:12+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004396s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006486s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.com" ) LIMIT 1   [ RunTime:0.000485s ]
+
+[ 2016-08-06T12:11:31+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005304s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006634s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.com" ) LIMIT 1   [ RunTime:0.000565s ]
+
+[ 2016-08-06T12:11:36+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003783s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007250s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="123@11.c5m" ) LIMIT 1   [ RunTime:0.000491s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('123@11.c5m','123','薛立想','男','24','18553224863','52679055','2016-08-06 12:11:36') [ RunTime:0.001249s ]
+
+[ 2016-08-06T12:11:55+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003485s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006627s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="324243@11.c5m" ) LIMIT 1   [ RunTime:0.000586s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('324243@11.c5m','134','薛立想','男','24','18553224863','52679055','2016-08-06 12:11:55') [ RunTime:0.000340s ]
+
+[ 2016-08-06T12:13:26+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003560s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006209s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="324243@11.c5m" ) LIMIT 1   [ RunTime:0.000669s ]
+
+[ 2016-08-06T12:13:31+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004029s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006961s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="32@11.c5m" ) LIMIT 1   [ RunTime:0.000528s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('32@11.c5m','123','薛立想','男','24','18553224863','52679055','2016-08-06 12:13:31') [ RunTime:0.000393s ]
+
+[ 2016-08-06T12:14:49+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004005s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006892s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="234fs2@11.c5m" ) LIMIT 1   [ RunTime:0.000523s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('234fs2@11.c5m','3','薛立想','男','24','18553224863','5267905533','2016-08-06 12:14:49') [ RunTime:0.000381s ]
+
+[ 2016-08-06T12:16:41+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003481s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007072s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="234fs2@11.c5m" ) LIMIT 1   [ RunTime:0.000537s ]
+
+[ 2016-08-06T12:45:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+ERR: 非法操作:upd
+
+[ 2016-08-06T13:09:28+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004035s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006225s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:09:42+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003750s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008977s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:11:20+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003679s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006693s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:14:13+08:00 ] ::1 /myphp/Home/Manager/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003428s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006567s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:14:14+08:00 ] ::1 /myphp/Home/Manager/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003363s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006425s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:21:40+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003874s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006430s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:22+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004013s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006432s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:26+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003709s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006741s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:26+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003741s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006125s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:26+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003527s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007923s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:26+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003529s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006892s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:26+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003618s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006933s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:27+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003785s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006945s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:27+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003552s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006427s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:27+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003561s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006147s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:22:27+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003568s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006789s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T13:23:47+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003590s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006627s ]
+SQL: UPDATE `think_manager` SET `username`='xuee',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2016-08-06T13:24:38+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003581s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006504s ]
+SQL: UPDATE `think_manager` SET `username`='xueeli',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2016-08-06T13:24:58+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003595s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006989s ]
+SQL: UPDATE `think_manager` SET `username`='xueelixiang',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001356s ]
+
+[ 2016-08-06T13:27:33+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003715s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006660s ]
+SQL: UPDATE `think_manager` SET `username`='xu',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001474s ]
+
+[ 2016-08-06T13:28:32+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003840s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008881s ]
+SQL: UPDATE `think_manager` SET `username`='xuee',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2016-08-06T14:15:34+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003390s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007598s ]
+SQL: UPDATE `think_manager` SET `username`='xue',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2016-08-06T14:16:28+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005211s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007181s ]
+SQL: UPDATE `think_manager` SET `username`='xuee',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211' WHERE ( id=1 ) [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001494s ]
+
+[ 2016-08-06T14:20:40+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003412s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006418s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T14:20:53+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003379s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006351s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T14:21:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003487s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006693s ]
+
+[ 2016-08-06T14:21:54+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003388s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006656s ]
+
+[ 2016-08-06T14:21:55+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003877s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007271s ]
+
+[ 2016-08-06T14:22:08+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003775s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006711s ]
+
+[ 2016-08-06T14:22:13+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003478s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006567s ]
+NOTIC: [8] Undefined index: password2 D:\wamp\wamp\www\myphp\ThinkPHP\Library\Think\Model.class.php 第 1107 行.
+
+[ 2016-08-06T14:22:43+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003474s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007388s ]
+
+[ 2016-08-06T14:22:44+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003458s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008539s ]
+
+[ 2016-08-06T14:22:45+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001507s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004064s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006116s ]
+
+[ 2016-08-06T14:22:50+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003391s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006522s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000514s ]
+SQL: UPDATE `think_manager` SET `username`='xuexue@11.c',`password`='123',`name`='学学',`sex`='男',`age`='24',`tell`='13425364764',`qq`='24254256',`update_time`='2016-08-06 14:22:50' WHERE ( id=4 ) [ RunTime:0.000432s ]
+
+[ 2016-08-06T14:22:51+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003404s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006532s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000506s ]
+
+[ 2016-08-06T14:22:51+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003414s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006917s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000649s ]
+
+[ 2016-08-06T14:23:11+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003382s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006568s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000508s ]
+
+[ 2016-08-06T14:23:12+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003453s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006406s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000720s ]
+
+[ 2016-08-06T14:23:12+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003470s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006472s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000538s ]
+
+[ 2016-08-06T14:23:12+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003374s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006416s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000518s ]
+
+[ 2016-08-06T14:23:15+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003415s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006345s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000503s ]
+
+[ 2016-08-06T14:23:16+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003554s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007521s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000563s ]
+
+[ 2016-08-06T14:23:16+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003363s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006579s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000500s ]
+
+[ 2016-08-06T14:23:17+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003477s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006127s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000603s ]
+
+[ 2016-08-06T14:23:17+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003691s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006713s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000511s ]
+
+[ 2016-08-06T14:23:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003374s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005678s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000482s ]
+
+[ 2016-08-06T14:23:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003460s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006771s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000525s ]
+
+[ 2016-08-06T14:23:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003405s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006535s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000600s ]
+
+[ 2016-08-06T14:23:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003582s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006212s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T14:23:19+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004741s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006751s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000551s ]
+
+[ 2016-08-06T14:23:20+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003526s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007813s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000503s ]
+
+[ 2016-08-06T14:23:20+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003396s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006269s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000516s ]
+
+[ 2016-08-06T14:23:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003747s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006364s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000596s ]
+
+[ 2016-08-06T14:23:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003543s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006157s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.c" ) LIMIT 1   [ RunTime:0.000483s ]
+
+[ 2016-08-06T14:23:37+08:00 ] ::1 /myphp/Home/Manager/select
+ERR: 非法操作:select
+
+[ 2016-08-06T14:23:59+08:00 ] ::1 /myphp/Home/Manager/upd/id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003467s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006280s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuexue@11.com" ) LIMIT 1   [ RunTime:0.000791s ]
+SQL: UPDATE `think_manager` SET `username`='xuexue@11.com',`password`='123',`name`='学学',`sex`='男',`age`='24',`tell`='13425364764',`qq`='24254256',`update_time`='2016-08-06 14:23:59' WHERE ( id=4 ) [ RunTime:0.000620s ]
+
+[ 2016-08-06T14:36:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003493s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005620s ]
+
+[ 2016-08-06T14:36:52+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003640s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006134s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000506s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:36:52' WHERE ( id=0 ) [ RunTime:0.000385s ]
+
+[ 2016-08-06T14:37:52+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003751s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008246s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000529s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:37:52' WHERE ( id=0 ) [ RunTime:0.000346s ]
+
+[ 2016-08-06T14:40:39+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003438s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006986s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000483s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:39' WHERE ( id=0 ) [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:40+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003899s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008076s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000525s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:40' WHERE ( id=0 ) [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:41+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003518s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006257s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000510s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:41' WHERE ( id=0 ) [ RunTime:0.000466s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:41+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003504s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006305s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000498s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:41' WHERE ( id=0 ) [ RunTime:0.000336s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:42+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003909s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006200s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000476s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:42' WHERE ( id=0 ) [ RunTime:0.000352s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:42+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003510s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006448s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000507s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:42' WHERE ( id=0 ) [ RunTime:0.000392s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004042s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006511s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000492s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:43' WHERE ( id=0 ) [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004235s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006548s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000490s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:43' WHERE ( id=0 ) [ RunTime:0.000317s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:44+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003992s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006473s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000597s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:44' WHERE ( id=0 ) [ RunTime:0.000435s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:58+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003523s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006806s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000531s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:58' WHERE ( id=0 ) [ RunTime:0.000340s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:58+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003450s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006602s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000488s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:58' WHERE ( id=0 ) [ RunTime:0.000308s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:40:58+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003844s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006739s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000559s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:40:58' WHERE ( id=0 ) [ RunTime:0.000409s ]
+NOTIC: [8] Use of undefined constant a - assumed 'a' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T14:44:45+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003463s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007222s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000601s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:44:45' WHERE ( id=0 ) [ RunTime:0.000492s ]
+
+[ 2016-08-06T14:44:46+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004011s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006649s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000503s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:44:46' WHERE ( id=0 ) [ RunTime:0.000405s ]
+
+[ 2016-08-06T14:44:46+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003528s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007995s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="lixiang@qq.com" ) LIMIT 1   [ RunTime:0.000535s ]
+SQL: UPDATE `think_manager` SET `username`='lixiang@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='52679055',`update_time`='2016-08-06 14:44:46' WHERE ( id=0 ) [ RunTime:0.000361s ]
+
+[ 2016-08-06T14:45:02+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003579s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006640s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000501s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:45:02' WHERE ( id=0 ) [ RunTime:0.000329s ]
+
+[ 2016-08-06T14:45:06+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003821s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007061s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:45:06' WHERE ( id=0 ) [ RunTime:0.000335s ]
+
+[ 2016-08-06T14:45:06+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003670s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006401s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000609s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:45:06' WHERE ( id=0 ) [ RunTime:0.000460s ]
+
+[ 2016-08-06T14:45:07+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003430s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006165s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000487s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:45:07' WHERE ( id=0 ) [ RunTime:0.000374s ]
+
+[ 2016-08-06T14:55:34+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003780s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006486s ]
+
+[ 2016-08-06T14:55:41+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004425s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007563s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000536s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:41' WHERE ( id=0 ) [ RunTime:0.000415s ]
+
+[ 2016-08-06T14:55:42+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003728s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006551s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000593s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:42' WHERE ( id=0 ) [ RunTime:0.000362s ]
+
+[ 2016-08-06T14:55:42+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003831s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007100s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:42' WHERE ( id=0 ) [ RunTime:0.000362s ]
+
+[ 2016-08-06T14:55:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003723s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006507s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000481s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:43' WHERE ( id=0 ) [ RunTime:0.000328s ]
+
+[ 2016-08-06T14:55:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003720s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006932s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000499s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:43' WHERE ( id=0 ) [ RunTime:0.000330s ]
+
+[ 2016-08-06T14:55:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003735s ]
+SQL: DESCRIBE think_manager [ RunTime:0.027931s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000538s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:43' WHERE ( id=0 ) [ RunTime:0.000365s ]
+
+[ 2016-08-06T14:55:43+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003695s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006416s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000512s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:43' WHERE ( id=0 ) [ RunTime:0.000328s ]
+
+[ 2016-08-06T14:55:44+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003817s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006579s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000484s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:44' WHERE ( id=0 ) [ RunTime:0.000330s ]
+
+[ 2016-08-06T14:55:44+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003691s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006118s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000604s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:44' WHERE ( id=0 ) [ RunTime:0.000379s ]
+
+[ 2016-08-06T14:55:44+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003774s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006308s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000478s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:44' WHERE ( id=0 ) [ RunTime:0.000317s ]
+
+[ 2016-08-06T14:55:44+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004124s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006153s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000508s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:44' WHERE ( id=0 ) [ RunTime:0.000318s ]
+
+[ 2016-08-06T14:55:45+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003733s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006405s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000477s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:45' WHERE ( id=0 ) [ RunTime:0.000322s ]
+
+[ 2016-08-06T14:55:45+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003815s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006274s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000525s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:45' WHERE ( id=0 ) [ RunTime:0.000364s ]
+
+[ 2016-08-06T14:55:45+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004021s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005704s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000475s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:45' WHERE ( id=0 ) [ RunTime:0.000357s ]
+
+[ 2016-08-06T14:55:45+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003880s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006333s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000476s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:45' WHERE ( id=0 ) [ RunTime:0.000312s ]
+
+[ 2016-08-06T14:55:46+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003907s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006430s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000502s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:46' WHERE ( id=0 ) [ RunTime:0.000345s ]
+
+[ 2016-08-06T14:55:46+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003689s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006641s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000488s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:46' WHERE ( id=0 ) [ RunTime:0.000407s ]
+
+[ 2016-08-06T14:55:46+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004007s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007516s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xuee@qq.com" ) LIMIT 1   [ RunTime:0.000515s ]
+SQL: UPDATE `think_manager` SET `username`='xuee@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:46' WHERE ( id=0 ) [ RunTime:0.000310s ]
+
+[ 2016-08-06T14:55:49+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004218s ]
+SQL: DESCRIBE think_manager [ RunTime:0.029408s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000531s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:49' WHERE ( id=0 ) [ RunTime:0.000367s ]
+
+[ 2016-08-06T14:55:49+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004377s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005730s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000537s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:49' WHERE ( id=0 ) [ RunTime:0.000455s ]
+
+[ 2016-08-06T14:55:50+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001476s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004588s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007436s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000685s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:50' WHERE ( id=0 ) [ RunTime:0.000389s ]
+
+[ 2016-08-06T14:55:50+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003959s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006417s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000475s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:50' WHERE ( id=0 ) [ RunTime:0.000515s ]
+
+[ 2016-08-06T14:55:50+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003767s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006540s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000466s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:50' WHERE ( id=0 ) [ RunTime:0.000318s ]
+
+[ 2016-08-06T14:55:50+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003655s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006363s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000526s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:50' WHERE ( id=0 ) [ RunTime:0.000343s ]
+
+[ 2016-08-06T14:55:51+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003787s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006330s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000546s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:51' WHERE ( id=0 ) [ RunTime:0.000365s ]
+
+[ 2016-08-06T14:55:51+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004283s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006775s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000494s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:51' WHERE ( id=0 ) [ RunTime:0.000352s ]
+
+[ 2016-08-06T14:55:51+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003768s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006198s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000520s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:51' WHERE ( id=0 ) [ RunTime:0.000350s ]
+
+[ 2016-08-06T14:55:51+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003706s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006347s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000564s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:51' WHERE ( id=0 ) [ RunTime:0.000355s ]
+
+[ 2016-08-06T14:55:51+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004007s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006204s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000485s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:55:51' WHERE ( id=0 ) [ RunTime:0.000447s ]
+
+[ 2016-08-06T14:56:20+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003871s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006216s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000498s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:56:20' WHERE ( id=0 ) [ RunTime:0.000335s ]
+
+[ 2016-08-06T14:56:20+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003815s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006626s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000554s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:56:20' WHERE ( id=0 ) [ RunTime:0.000348s ]
+
+[ 2016-08-06T14:56:20+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003839s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006142s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000469s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:56:20' WHERE ( id=0 ) [ RunTime:0.000337s ]
+
+[ 2016-08-06T14:56:21+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004108s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006752s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000486s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:56:21' WHERE ( id=0 ) [ RunTime:0.000318s ]
+
+[ 2016-08-06T14:56:53+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003670s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006476s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000494s ]
+SQL: UPDATE `think_manager` SET `username`='xu23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:56:53' WHERE ( id=1 ) [ RunTime:0.000479s ]
+
+[ 2016-08-06T14:56:54+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003796s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008864s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000586s ]
+
+[ 2016-08-06T14:56:54+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003678s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006516s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000530s ]
+
+[ 2016-08-06T14:56:54+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004006s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005679s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000491s ]
+
+[ 2016-08-06T14:57:03+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001607s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005949s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008158s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="xu23@qq.com" ) LIMIT 1   [ RunTime:0.000726s ]
+
+[ 2016-08-06T14:58:02+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003743s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006884s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000515s ]
+SQL: UPDATE `think_manager` SET `username`='u23@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:58:02' WHERE ( id=1 ) [ RunTime:0.000452s ]
+
+[ 2016-08-06T14:58:04+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003920s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006751s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000552s ]
+
+[ 2016-08-06T14:58:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003765s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006884s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000493s ]
+
+[ 2016-08-06T14:58:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004245s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006564s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000485s ]
+
+[ 2016-08-06T14:58:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001843s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004564s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006212s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000504s ]
+
+[ 2016-08-06T14:58:21+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003680s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006270s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000500s ]
+
+[ 2016-08-06T14:58:22+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003833s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006373s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="u23@qq.com" ) LIMIT 1   [ RunTime:0.000498s ]
+
+[ 2016-08-06T14:59:16+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003836s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006389s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000488s ]
+SQL: UPDATE `think_manager` SET `username`='hah@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:59:16' WHERE ( id=1 ) [ RunTime:0.000401s ]
+
+[ 2016-08-06T14:59:17+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004296s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006147s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000521s ]
+
+[ 2016-08-06T14:59:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003712s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006903s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000502s ]
+
+[ 2016-08-06T14:59:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003755s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006818s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000515s ]
+
+[ 2016-08-06T14:59:19+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004267s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006299s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T14:59:19+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004103s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005650s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="hah@qq.com" ) LIMIT 1   [ RunTime:0.000550s ]
+
+[ 2016-08-06T14:59:32+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004275s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007610s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="ah@qq.com" ) LIMIT 1   [ RunTime:0.000620s ]
+SQL: UPDATE `think_manager` SET `username`='ah@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 14:59:32' WHERE ( id=1 ) [ RunTime:0.000494s ]
+
+[ 2016-08-06T15:00:25+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003709s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006735s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="ah@qq.com" ) LIMIT 1   [ RunTime:0.000478s ]
+
+[ 2016-08-06T15:00:27+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004271s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008082s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="ah@qq.com" ) LIMIT 1   [ RunTime:0.000504s ]
+
+[ 2016-08-06T15:00:33+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004103s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006752s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="ha@qq.com" ) LIMIT 1   [ RunTime:0.000489s ]
+SQL: UPDATE `think_manager` SET `username`='ha@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:00:33' WHERE ( id=1 ) [ RunTime:0.000403s ]
+
+[ 2016-08-06T15:00:37+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003744s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006682s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="ha@qq.com" ) LIMIT 1   [ RunTime:0.000507s ]
+
+[ 2016-08-06T15:01:29+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004905s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006989s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000549s ]
+SQL: UPDATE `think_manager` SET `username`='aaaa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:29' WHERE ( id=0 ) [ RunTime:0.000712s ]
+
+[ 2016-08-06T15:01:30+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003725s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006828s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000519s ]
+SQL: UPDATE `think_manager` SET `username`='aaaa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:30' WHERE ( id=0 ) [ RunTime:0.000340s ]
+
+[ 2016-08-06T15:01:30+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004302s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005587s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000480s ]
+SQL: UPDATE `think_manager` SET `username`='aaaa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:30' WHERE ( id=0 ) [ RunTime:0.000332s ]
+
+[ 2016-08-06T15:01:30+08:00 ] ::1 /myphp/Manager/upd.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003845s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007138s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000543s ]
+SQL: UPDATE `think_manager` SET `username`='aaaa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:30' WHERE ( id=0 ) [ RunTime:0.000326s ]
+
+[ 2016-08-06T15:01:41+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003692s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006439s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000523s ]
+SQL: UPDATE `think_manager` SET `username`='aaaa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:41' WHERE ( id=1 ) [ RunTime:0.000426s ]
+
+[ 2016-08-06T15:01:41+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006546s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2016-08-06T15:01:49+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003997s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006277s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aaaa@qq.com" ) LIMIT 1   [ RunTime:0.000491s ]
+
+[ 2016-08-06T15:01:53+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004543s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006706s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aa@qq.com" ) LIMIT 1   [ RunTime:0.000487s ]
+SQL: UPDATE `think_manager` SET `username`='aa@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:01:53' WHERE ( id=1 ) [ RunTime:0.000503s ]
+
+[ 2016-08-06T15:01:54+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003988s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006920s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aa@qq.com" ) LIMIT 1   [ RunTime:0.000537s ]
+
+[ 2016-08-06T15:05:00+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004308s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007419s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aa@qq.com" ) LIMIT 1   [ RunTime:0.000621s ]
+
+[ 2016-08-06T15:05:01+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003823s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008024s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aa@qq.com" ) LIMIT 1   [ RunTime:0.000506s ]
+
+[ 2016-08-06T15:05:41+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003880s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006815s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="aa@qq.com" ) LIMIT 1   [ RunTime:0.000510s ]
+
+[ 2016-08-06T15:05:50+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004098s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007190s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000530s ]
+SQL: UPDATE `think_manager` SET `id`=1,`username`='22a@qq.com',`password`='123',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:05:50' WHERE ( id=1 ) [ RunTime:0.000504s ]
+
+[ 2016-08-06T15:07:30+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004785s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006463s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000494s ]
+
+[ 2016-08-06T15:07:30+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003567s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007173s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000530s ]
+
+[ 2016-08-06T15:07:30+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004195s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006514s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000525s ]
+
+[ 2016-08-06T15:07:31+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003920s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006837s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000575s ]
+
+[ 2016-08-06T15:07:31+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003576s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006140s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000543s ]
+
+[ 2016-08-06T15:07:31+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003949s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006144s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000515s ]
+
+[ 2016-08-06T15:07:31+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003605s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007547s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000511s ]
+
+[ 2016-08-06T15:07:31+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003899s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006695s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000525s ]
+
+[ 2016-08-06T15:09:34+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003869s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007603s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000523s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('524376211@qq.com','123','123','123','12','13345678909','24324','2016-08-06 15:09:34') [ RunTime:0.000462s ]
+
+[ 2016-08-06T15:09:36+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003939s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006204s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000516s ]
+
+[ 2016-08-06T15:09:39+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003521s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006229s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000506s ]
+
+[ 2016-08-06T15:09:40+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003597s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006487s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000518s ]
+
+[ 2016-08-06T15:09:58+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003656s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006614s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000511s ]
+
+[ 2016-08-06T15:09:58+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003807s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006793s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000499s ]
+
+[ 2016-08-06T15:10:20+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003551s ]
+SQL: DESCRIBE think_manager [ RunTime:0.018659s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="22a@qq.com" ) LIMIT 1   [ RunTime:0.000556s ]
+
+[ 2016-08-06T15:10:40+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005087s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006285s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000501s ]
+
+[ 2016-08-06T15:10:45+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004211s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006954s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="5243@qq.com" ) LIMIT 1   [ RunTime:0.000485s ]
+SQL: UPDATE `think_manager` SET `username`='5243@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:10:45' WHERE ( id=1 ) [ RunTime:0.000475s ]
+
+[ 2016-08-06T15:11:53+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003450s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006429s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="52@qq.com" ) LIMIT 1   [ RunTime:0.000513s ]
+SQL: UPDATE `think_manager` SET `username`='52@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:11:53' WHERE ( id=1 ) [ RunTime:0.000680s ]
+
+[ 2016-08-06T15:11:55+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003442s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007892s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="52@qq.com" ) LIMIT 1   [ RunTime:0.000514s ]
+
+[ 2016-08-06T15:12:22+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003644s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006760s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="2@qq.com" ) LIMIT 1   [ RunTime:0.000500s ]
+SQL: UPDATE `think_manager` SET `username`='2@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:12:22' WHERE ( id=1 ) [ RunTime:0.000408s ]
+
+[ 2016-08-06T15:12:47+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003607s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006540s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="2@qq.com" ) LIMIT 1   [ RunTime:0.000495s ]
+
+[ 2016-08-06T15:13:56+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003798s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006257s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="2222@qq.com" ) LIMIT 1   [ RunTime:0.000477s ]
+SQL: UPDATE `think_manager` SET `username`='2222@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:13:56' WHERE ( id=1 ) [ RunTime:0.000402s ]
+
+[ 2016-08-06T15:13:59+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003859s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006556s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="2222@qq.com" ) LIMIT 1   [ RunTime:0.000543s ]
+
+[ 2016-08-06T15:14:25+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003596s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006492s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="33@qq.com" ) LIMIT 1   [ RunTime:0.000528s ]
+SQL: UPDATE `think_manager` SET `username`='33@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:14:25' WHERE ( id=1 ) [ RunTime:0.000433s ]
+SQL: UPDATE `think_manager` SET `username`='33@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:14:25' WHERE ( id=1 ) [ RunTime:0.000346s ]
+
+[ 2016-08-06T15:16:02+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003646s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007953s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="5555@qq.com" ) LIMIT 1   [ RunTime:0.000553s ]
+SQL: UPDATE `think_manager` SET `username`='5555@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:16:02' WHERE ( id=1 ) [ RunTime:0.000481s ]
+SQL: UPDATE `think_manager` SET `username`='5555@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:16:02' WHERE ( id=1 ) [ RunTime:0.000364s ]
+
+[ 2016-08-06T15:16:18+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003457s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006694s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="5555@qq.com" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T15:16:23+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003651s ]
+SQL: DESCRIBE think_manager [ RunTime:0.074337s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.001414s ]
+SQL: UPDATE `think_manager` SET `username`='66@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 15:16:23' WHERE ( id=1 ) [ RunTime:0.001192s ]
+
+[ 2016-08-06T15:17:42+08:00 ] ::1 /myphp/Home/Manager/del/id/1
+ERR: 非法操作:del
+
+[ 2016-08-06T15:17:46+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003424s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006943s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T15:17:47+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003458s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007033s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-08-06T15:35:29+08:00 ] ::1 /myphp/Home/Manager/upd/id/14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003795s ]
+SQL: DESCRIBE think_manager [ RunTime:0.014272s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="521@qq.com" ) LIMIT 1   [ RunTime:0.000602s ]
+SQL: UPDATE `think_manager` SET `username`='521@qq.com',`password`='123',`name`='123',`sex`='123',`age`='12',`tell`='13345678909',`qq`='24324',`update_time`='2016-08-06 15:35:29' WHERE ( id=14 ) [ RunTime:0.000477s ]
+
+[ 2016-08-06T15:35:37+08:00 ] ::1 /myphp/Home/Manager/del/id/14
+ERR: 模板不存在:./Application/Home/View/Manager/select.html
+
+[ 2016-08-06T15:44:22+08:00 ] ::1 /myphp/Home/Manager/del/id/10
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:49:28+08:00 ] ::1 /myphp/Home/Manager/del/id/10
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:49:33+08:00 ] ::1 /myphp/Home/Manager/del/id/9
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:53:48+08:00 ] ::1 /myphp/Home/Manager/del/id/9
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:53:51+08:00 ] ::1 /myphp/Home/Manager/del/id/8
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:55:43+08:00 ] ::1 /myphp/Home/Manager/del/id/8
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:55:43+08:00 ] ::1 /myphp/Home/Manager/del/id/8
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:55:44+08:00 ] ::1 /myphp/Home/Manager/del/id/8
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:55:48+08:00 ] ::1 /myphp/Home/Manager/del/id/7
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:56:06+08:00 ] ::1 /myphp/Home/Manager/del/id/7
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:56:08+08:00 ] ::1 /myphp/Home/Manager/del/id/6
+ERR: 模板不存在:./Application/Home/View/Manager/del.html
+
+[ 2016-08-06T15:59:09+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004730s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006939s ]
+
+[ 2016-08-06T15:59:13+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003584s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007306s ]
+
+[ 2016-08-06T15:59:14+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003612s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006265s ]
+
+[ 2016-08-06T15:59:14+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003604s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005758s ]
+
+[ 2016-08-06T15:59:15+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003584s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007442s ]
+
+[ 2016-08-06T15:59:20+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003528s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006682s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="34@ww.com" ) LIMIT 1   [ RunTime:0.000536s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('34@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:20') [ RunTime:0.000437s ]
+
+[ 2016-08-06T15:59:21+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003545s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006379s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="34@ww.com" ) LIMIT 1   [ RunTime:0.000706s ]
+
+[ 2016-08-06T15:59:24+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001667s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004767s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006921s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="334@ww.com" ) LIMIT 1   [ RunTime:0.000549s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('334@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:24') [ RunTime:0.000386s ]
+
+[ 2016-08-06T15:59:25+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003611s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007410s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="3334@ww.com" ) LIMIT 1   [ RunTime:0.000480s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('3334@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:25') [ RunTime:0.000332s ]
+
+[ 2016-08-06T15:59:26+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003727s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006950s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="3334@ww.com" ) LIMIT 1   [ RunTime:0.000531s ]
+
+[ 2016-08-06T15:59:29+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003560s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006631s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="33334@ww.com" ) LIMIT 1   [ RunTime:0.000635s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('33334@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:29') [ RunTime:0.000509s ]
+
+[ 2016-08-06T15:59:32+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004522s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007317s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000511s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('fs4@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:32') [ RunTime:0.000507s ]
+
+[ 2016-08-06T15:59:35+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003585s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006643s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="fw4@ww.com" ) LIMIT 1   [ RunTime:0.000474s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('fw4@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:35') [ RunTime:0.000432s ]
+
+[ 2016-08-06T15:59:39+08:00 ] ::1 /myphp/Manager/register.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003903s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006831s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="5w4@ww.com" ) LIMIT 1   [ RunTime:0.000545s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`name`,`sex`,`age`,`tell`,`qq`,`register_time`) VALUES ('5w4@ww.com','123','xx','nan','23','13345567773','52679055','2016-08-06 15:59:39') [ RunTime:0.000389s ]
+
+[ 2016-08-06T16:00:04+08:00 ] ::1 /myphp/Home/Manager/upd/id/19
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003400s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006966s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000522s ]
+
+[ 2016-08-06T16:00:05+08:00 ] ::1 /myphp/Home/Manager/upd/id/19
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003421s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006821s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000504s ]
+
+[ 2016-08-06T16:06:33+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002767s ]
+SQL: DESCRIBE think_manager [ RunTime:0.029995s ]
+
+[ 2016-08-06T16:06:34+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003199s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006870s ]
+
+[ 2016-08-06T16:06:35+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002711s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006512s ]
+
+[ 2016-08-06T16:06:35+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002743s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006563s ]
+
+[ 2016-08-06T16:06:35+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006315s ]
+
+[ 2016-08-06T16:06:56+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002699s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006922s ]
+
+[ 2016-08-06T16:07:01+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002825s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006871s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000482s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`register_time`) VALUES ('524376211@qq.com','xuelixiang123456','2016-08-06 16:07:01') [ RunTime:0.000350s ]
+
+[ 2016-08-06T16:13:43+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003434s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007372s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="524376211@qq.com" ) LIMIT 1   [ RunTime:0.000660s ]
+SQL: INSERT INTO `think_manager` (`username`,`password`,`register_time`) VALUES ('524376211@qq.com','xuelixiang123456','2016-08-06 16:13:43') [ RunTime:0.000452s ]
+
+[ 2016-08-06T16:33:53+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003417s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006063s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:08+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003499s ]
+SQL: DESCRIBE think_manager [ RunTime:0.005897s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:22+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003322s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006759s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:27+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003345s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006621s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:27+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003894s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007098s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:28+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003336s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006831s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:28+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003399s ]
+SQL: DESCRIBE think_manager [ RunTime:0.013093s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:28+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003372s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006683s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:35+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003433s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006015s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="2@qq.com" ) LIMIT 1   [ RunTime:0.000540s ]
+
+[ 2016-08-06T16:34:38+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003849s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007017s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:39+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003515s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007349s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:46+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001609s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004283s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006526s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:46+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003601s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006552s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:34:57+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004151s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006673s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000563s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T16:35:03+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003891s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006767s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:35:10+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003460s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006854s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:35:19+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003540s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006893s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T16:35:20+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003381s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006826s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:35:21+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003409s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006918s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:11+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004500s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006940s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:12+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003863s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007453s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:14+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004478s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007305s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:25+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005133s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007183s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:27+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003896s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007902s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:30+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003479s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007970s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:36:36+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003615s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006904s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:37:11+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003886s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006409s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000558s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T16:37:27+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003604s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007367s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000610s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+
+[ 2016-08-06T16:37:30+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004260s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007081s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:40:05+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004121s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008408s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:42:51+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003774s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006947s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000612s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: INSERT INTO `think_manager` (`username`,`password`,`login_time`) VALUES ('66@qq.com','xue','2016-08-06 16:42:51') [ RunTime:0.000480s ]
+
+[ 2016-08-06T16:43:33+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004028s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006709s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000527s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: INSERT INTO `think_manager` (`username`,`password`,`login_time`) VALUES ('66@qq.com','xue','2016-08-06 16:43:33') [ RunTime:0.000350s ]
+
+[ 2016-08-06T16:47:31+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004101s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006819s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="66@qq.com" ) LIMIT 1   [ RunTime:0.000613s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='66@qq.com',`password`='xue',`login_time`='2016-08-06 16:47:31' WHERE ( `id` = 1 ) [ RunTime:0.000588s ]
+
+[ 2016-08-06T16:49:43+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003533s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006664s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:49:56+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003941s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007069s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:50:15+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004173s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006539s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="334@ww.com" ) LIMIT 1   [ RunTime:0.000616s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='334@ww.com',`password`='123',`login_time`='2016-08-06 16:50:15' WHERE ( `id` = 16 ) [ RunTime:0.000416s ]
+
+[ 2016-08-06T16:50:37+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003457s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006838s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="556@qq.com" ) LIMIT 1   [ RunTime:0.000509s ]
+SQL: UPDATE `think_manager` SET `username`='556@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 16:50:37' WHERE ( id=1 ) [ RunTime:0.000396s ]
+
+[ 2016-08-06T16:50:38+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004398s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006279s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="556@qq.com" ) LIMIT 1   [ RunTime:0.000476s ]
+
+[ 2016-08-06T16:50:57+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003549s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007487s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="776@qq.com" ) LIMIT 1   [ RunTime:0.000520s ]
+SQL: UPDATE `think_manager` SET `username`='776@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 16:50:57' WHERE ( id=1 ) [ RunTime:0.000415s ]
+
+[ 2016-08-06T16:51:07+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003359s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006635s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="776@qq.com" ) LIMIT 1   [ RunTime:0.000531s ]
+
+[ 2016-08-06T16:51:25+08:00 ] ::1 /myphp/Home/Manager/upd/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003900s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007485s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="88@qq.com" ) LIMIT 1   [ RunTime:0.000527s ]
+SQL: UPDATE `think_manager` SET `username`='88@qq.com',`password`='xue',`name`='薛立想',`sex`='男',`age`='24',`tell`='18553224863',`qq`='524376211',`update_time`='2016-08-06 16:51:25' WHERE ( id=1 ) [ RunTime:0.000382s ]
+
+[ 2016-08-06T16:52:49+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003920s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007195s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:52:56+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003372s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006975s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000558s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='fs4@ww.com',`password`='123',`login_time`='2016-08-06 16:52:56',`id`=19 WHERE ( username="fs4@ww.com" ) [ RunTime:0.000461s ]
+
+[ 2016-08-06T16:53:23+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003558s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006410s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000553s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='fs4@ww.com',`password`='123',`login_time`='2016-08-06 16:53:23',`id`=19 WHERE ( username="fs4@ww.com" ) [ RunTime:0.000404s ]
+
+[ 2016-08-06T16:53:59+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003579s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006957s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000593s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='fs4@ww.com',`password`='123',`login_time`='2016-08-06 16:53:59' WHERE ( id="19" ) [ RunTime:0.000467s ]
+
+[ 2016-08-06T16:54:21+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004041s ]
+
+[ 2016-08-06T16:54:27+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003184s ]
+
+[ 2016-08-06T16:54:28+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002941s ]
+
+[ 2016-08-06T16:54:34+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002784s ]
+
+[ 2016-08-06T16:55:07+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002696s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006830s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000545s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='fs4@ww.com',`password`='123',`login_time`='2016-08-06 16:55:07' WHERE ( id="19" ) [ RunTime:0.000380s ]
+
+[ 2016-08-06T16:55:35+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002704s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006795s ]
+
+[ 2016-08-06T16:55:44+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002719s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006670s ]
+
+[ 2016-08-06T16:55:55+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003232s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007001s ]
+
+[ 2016-08-06T16:55:56+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003188s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006891s ]
+
+[ 2016-08-06T16:55:57+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002764s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006970s ]
+
+[ 2016-08-06T16:56:05+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002725s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006921s ]
+
+[ 2016-08-06T16:56:06+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002766s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006793s ]
+
+[ 2016-08-06T16:56:06+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002753s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006209s ]
+
+[ 2016-08-06T16:56:09+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002681s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006649s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="yangting@a.cm" ) LIMIT 1   [ RunTime:0.000476s ]
+SQL: UPDATE `think_manager` SET `username`='yangting@a.cm',`password`='123',`name`='杨婷',`sex`='女',`age`='24',`tell`='13345567744',`qq`='2425645',`update_time`='2016-08-06 16:56:09' WHERE ( id=3 ) [ RunTime:0.000485s ]
+
+[ 2016-08-06T16:56:10+08:00 ] ::1 /myphp/Home/Manager/upd/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002722s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006851s ]
+SQL: SELECT * FROM `think_manager` WHERE ( username="yangting@a.cm" ) LIMIT 1   [ RunTime:0.000488s ]
+
+[ 2016-08-06T16:57:14+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003803s ]
+SQL: DESCRIBE think_manager [ RunTime:0.007258s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+SQL: SELECT * FROM `think_manager` WHERE ( username="fs4@ww.com" ) LIMIT 1   [ RunTime:0.000537s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 45 行.
+SQL: UPDATE `think_manager` SET `username`='fs4@ww.com',`password`='123',`login_time`='2016-08-06 16:57:14' WHERE ( id="19" ) [ RunTime:0.000418s ]
+
+[ 2016-08-06T16:57:54+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003870s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006790s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:57:55+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003755s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006199s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:57:55+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003723s ]
+SQL: DESCRIBE think_manager [ RunTime:0.008272s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+
+[ 2016-08-06T16:57:55+08:00 ] ::1 /myphp/Home/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004026s ]
+SQL: DESCRIBE think_manager [ RunTime:0.006287s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\wamp\wamp\www\myphp\Application\Home\Model\ManagerModel.class.php 第 38 行.
+

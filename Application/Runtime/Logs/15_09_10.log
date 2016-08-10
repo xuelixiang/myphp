@@ -1,0 +1,26 @@
+[ 2015-09-10T09:43:06+08:00 ] ::1 /myphp/Public/MODULE_NAME/css/index.css
+ERR: 无法加载控制器:Public
+
+[ 2015-09-10T09:43:06+08:00 ] ::1 /myphp/Public/MODULE_NAME/js/index.js
+ERR: 无法加载控制器:Public
+
+[ 2015-09-10T23:09:32+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+SQL: DESCRIBE think_user [ RunTime:0.019834s ]
+
+[ 2015-09-10T23:14:41+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: DESCRIBE think_user [ RunTime:0.020638s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+
+[ 2015-09-10T23:14:48+08:00 ] ::1 /myphp/User/create.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: DESCRIBE think_user [ RunTime:0.020700s ]
+NOTIC: [8] Undefined variable: User D:\wamp\wamp\www\myphp\Application\Home\Controller\UserController.class.php 第 40 行.
+

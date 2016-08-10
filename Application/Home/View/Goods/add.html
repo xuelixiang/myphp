@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>输入数据</title>
+<link rel="stylesheet" type="text/css" href="__CSS__/create.css"/>
+<script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+<div id="top_div">
+  <span>提示文字：</span><span class="top">输入数据</span>
+</div>
+<!-- src=__MODULE__/Goods/verify   __CONTROLLER__/verify  {:U('Home/Goods/verify')}-->
+<form id="form_all" method="post" action="{:U('add')}" >
+	姓名:<input id="name" type="text" name="name" /><br />
+	性别:<input id="sex" type="text" name="sex" /><br />
+	年龄:<input id="age" type="text" name="age" /><br />
+	验证码:<input id="verify" type="text" name="verify" /><br />
+	<img src="{:U('verify')}" alt="验证码" class="verifyimg reloadverify" /><br />
+	<input id="btn" type="submit" value="提交" /><br />
+</form>
+
+
+<script>
+	$(function(){
+		//刷新验证码
+		var verifyimg = $(".verifyimg").attr("src");
+		$(".reloadverify").click(function(){
+			if( verifyimg.indexOf('?')>0){
+				$(".verifyimg").attr("src", verifyimg+'&random='+Math.random());
+			}else{
+				$(".verifyimg").attr("src", verifyimg.replace(/\?.*$/,'')+'?'+Math.random());
+			}
+		});
+	});
+</script>
+
+</body>
+</html>

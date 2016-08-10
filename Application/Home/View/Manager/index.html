@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>首页</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="__STATIC__/reset.css">
+  <link rel="stylesheet" href="__STATIC__/page.css">
+  <link rel="stylesheet" href="__CSS__/index.css">
+  <script src="__STATIC__/jquery.js"></script>
+</head>
+<body>
+  <div id="content">
+    <p>以下为全部用户信息</p>
+    <ul class="shang">
+      <li class="first">序号</li>
+      <li class="mid">账号</li>
+      <li class="mid">密码</li>
+      <li>姓名</li>
+      <li>性别</li>
+      <li>年龄</li>
+      <li class="mid">手机号</li>
+      <li class="mid">QQ号</li>
+      <li class="chang">注册时间</li>
+      <li class="chang">登录时间</li>
+      <li>是否修改</li>
+      <li>是否删除</li>
+    </ul>
+
+<volist name="data" key="key" id="vo">
+    <ul class="xia">
+      <li class="first">{$key}</li>
+      <li class="mid">{$vo[username]}</li>
+      <li class="mid">{$vo[password]}</li>
+      <li>{$vo[name]}</li>
+      <li>{$vo.sex}</li>
+      <li>{$vo[age]}</li>
+      <li class="mid">{$vo[tell]}</li>
+      <li class="mid">{$vo[qq]}</li>
+      <li class="chang">{$vo[register_time]}</li>
+      <!-- <li class="chang">{$vo[login_time]}</li> -->
+      <li class="chang"><img src="__IMG_URl__{$vo.small_img_url}" /></li>
+      <a href="__CONTROLLER__/upd/id/{$vo.id}"><li>修改</li></a>
+      <a href="__CONTROLLER__/del/id/{$vo.id}"><li>删除</li></a>
+    </ul>
+</volist>
+
+    <div class="b-page">{$page}</div>
+
+
+  </div>
+</body>
+</html>
